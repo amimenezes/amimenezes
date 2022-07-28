@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 ### :snake:  Commit Snake
    
-   ![Snake animation](https://github.com/amimenezes/amimenezes/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/amimenezes/blob/output/github-contribution-grid-snake.svg)
    
 </div>
